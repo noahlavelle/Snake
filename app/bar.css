@@ -1,0 +1,36 @@
+/* Header Styling */
+header{
+    width: 100%;
+    
+}
+
+/*Nav Styling*/
+
+nav ul {
+    margin: 0;
+    padding-left: 700px;
+    list-style: none;
+}
+
+nav button {
+    -webkit-app-region: no-drag;
+    -webkit-user-select: none;
+    background: none;
+    color: inherit;
+    border: none;
+    padding: 0;
+    font: inherit;
+    cursor: pointer;
+    outline: inherit;
+    padding-left: 10px;
+
+    color: #ffffff;
+    text-decoration: none;
+    
+    font-family: 'Comfortaa', cursive;
+}
+
+nav {
+  background-color: #2c2f33;
+  -webkit-app-region: drag;
+}
